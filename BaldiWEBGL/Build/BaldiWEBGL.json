@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BALDI",
+"dataUrl": "BaldiWEBGL.data.unityweb",
+"asmCodeUrl": "BaldiWEBGL.asm.code.unityweb",
+"asmMemoryUrl": "BaldiWEBGL.asm.memory.unityweb",
+"asmFrameworkUrl": "BaldiWEBGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
